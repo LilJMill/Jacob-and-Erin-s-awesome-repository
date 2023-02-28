@@ -5,4 +5,5 @@ First our code inputs the name of the user, then it inputs the users age. If the
 
 Instalation Process:
 1. Log into JupyterHub and open a termial
-2. Type in 
+2. Type in 'gh repo clone LilJMill/Jacob-and-Erin-s-awesome-repository' to the terminal and hit enter
+3. Open the Folder and run run code
